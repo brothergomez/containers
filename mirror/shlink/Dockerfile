@@ -1,2 +1,2 @@
-FROM shlinkio/shlink:3.0.1@sha256:8c04eba05ee27a6473d14a552610d88bdf36b9b6d4d7b9e64ddcd14abdb1f838
+FROM shlinkio/shlink:3.0.3@sha256:335984ca0275107c811cf949d3238af47157d6e681f1def08243a2f0ed81cb94
 LABEL "org.opencontainers.image.source"="https://github.com/truecharts/containers"
